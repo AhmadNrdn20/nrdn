@@ -1,0 +1,13 @@
+body {
+    margin: 60px;
+}
+
+#foto {
+    border: 1px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+h1 {
+    text-align: left;
+}
